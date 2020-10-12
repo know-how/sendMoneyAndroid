@@ -1,0 +1,7 @@
+{
+  "name": "sendMoney",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
